@@ -1,0 +1,6 @@
+{
+  "name": "VibeChat",
+  "description": "A modern full-stack social random chat application featuring live matchmaking, swiping-skips, real-time messaging, friends list, and Instagram-styled DMs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
